@@ -2,17 +2,17 @@
 
 A brief description of your project, its purpose, and what it does.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
-This project is a tool to help [specific problem or need]. It allows users to [briefly describe the features and benefits of the project]. It was built using [technologies used in the project].
+**Cyclistic is a bike-share company located in Chicago. There are two kinds of riders – annual riders 
+and casual riders. According to the finance analysts of the company, riders with annual 
+membership are much more profitable compared to casual riders. Based on their analyzation, the 
+company has decided to create marketing strategies in order to influence their users to become 
+annual riders. The business task I was given, is to analyze the company’s data in order to 
+differentiate casual riders and annual riders. The insights I would give from my business task 
+would be beneficial to the creation of marketing strategies at it would help give more information 
+about the annual riders and how they utilize the bike-share application.  **
 
 ## Installation
 
