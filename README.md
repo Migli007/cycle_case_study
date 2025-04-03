@@ -1,6 +1,5 @@
-# Project Title
+# Cyclistic Bike Share: Casual Riders vs Annual Riders 
 
-A brief description of your project, its purpose, and what it does.
 
 
 ## Introduction
@@ -14,15 +13,13 @@ differentiate casual riders and annual riders. The insights I would give from my
 would be beneficial to the creation of marketing strategies at it would help give more information 
 about the annual riders and how they utilize the bike-share application.  **
 
-## Installation
 
-### Prerequisites
+## Tools Used
 
-- [List of prerequisites, e.g., programming languages, tools, or services needed to run the project.]
+- Excel
+- Python
+- PostgreSQL
+- Data Set
+- Dataset: Available in link - []
 
-### Steps to install
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/projectname.git
 
